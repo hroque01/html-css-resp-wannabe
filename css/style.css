@@ -145,7 +145,23 @@ img {
         flex-wrap: wrap;
     }
 
+    .col .card {
+        padding-bottom: 80px;
+    }
+
     .lessons .col {
         width: 100%;
+    }
+
+    .steps .col {
+        width: 100%;
+    }
+
+    .why-us .col {
+        width: 100%;
+    }
+    
+    .col-left img {
+        padding-bottom: 100px;
     }
  }
